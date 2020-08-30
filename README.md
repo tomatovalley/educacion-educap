@@ -2,7 +2,7 @@
 
 Es un proyecto para que niños y jóvenes de escasos recursos puedan continuar con sus clases a distancia (en línea) en la actual pandemia, brindándoles acceso a internet y equipo de cómputo proporcionados por personas voluntarias en sus hogares llamadas educapers.
 
-<img src="src/logo/black.png">
+<img src="images/black.png">
 <h2>Problemática</h2>
 Debido a la pandemia, causó que la educación a distancia (en línea) se convirtiera en una necesidad que se implementó en un entorno donde ni los estudiantes ni los docentes estaban preparados debido a que muy pocos hogares cuentan con una computadora o con acceso a internet esto representa a más de la mitad de los hogares mexicanos según datos del INEGI 2019. 
 <h2>Objetivo General</h2>
